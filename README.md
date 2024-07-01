@@ -13,7 +13,7 @@ Staff Management Employee Roles: Admins can manage staff roles (e.g., front desk
 
 Reporting and Analytics Performance Metrics: The system generates reports on occupancy rates, revenue, and guest satisfaction. Admins can analyze data to make informed decisions. Technologies Used Front End: HTML, CSS, JavaScript Bootstrap or any other UI framework Back End: PHP (for server-side logic) MySQL (for database management) Installation and Setup
 
-Clone the Repository: git clone https://github.com/prakhartripathi22/HOTEL-MANAGEMENT-SYSTEM.git
+Clone the Repository: https://github.com/Aryan1762/HOTEL-MANAGEMENT.git
 
 Clone the Hotel Management System repository to your local machine. Environment Setup: Set up your local development environment (e.g., XAMPP, WAMP, or LAMP). Ensure PHP and MySQL are installed. Database Configuration: Import the database schema (hotel_management.sql) into your MySQL database. Configure the database connection in config.php.
 
